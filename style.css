@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(94, 89, 89);
+}
+h1 {
+  color: red;
+  text-align: center;
+  background-color: black;
+}
+
+.Protein {
+  text-align: center;
+  display: inline-table;
+  height: 150px;
+  width: 200px;
+  background-color: rgb(119, 45, 45);
+  margin-right: 30px;
+  align-items: center;
+}
+.Condiments {
+  text-align: center;
+  display: inline-table;
+  height: 150px;
+  width: 200px;
+  background-color: green;
+}
+.enElTaco {
+  text-align: center;
+}
+.h2a {
+  color: yellow;
+  background-color: rgb(17, 17, 41);
+}
+.h2b {
+  text-align: center;
+  color: rgb(20, 19, 19);
+  background-color: red;
+}
+.tys {
+  text-align: center;
+}
+.Tortilla {
+  display: inline-table;
+  background-color: blue;
+  width: 200px;
+  height: 150px;
+  margin-right: 30px;
+}
+.Sauce {
+  display: inline-table;
+  background-color: coral;
+  width: 200px;
+  height: 150px;
+}
+.tands {
+  text-align: center;
+}
+.Jalapenos {
+  display: inline-block;
+  text-align: center;
+  padding-top: 100px;
+  padding-left: 30px;
+}
+.GOAT {
+  padding-left: 30px;
+  padding-top: 100px;
+}
